@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Pakkeliste",
+        "description": "Set up the packing list. It appears in the sidebar afterwards."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Pakkeliste is already set up."
+    }
+  }
+}
